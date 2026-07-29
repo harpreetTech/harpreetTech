@@ -1,16 +1,28 @@
 # Hi, I'm Harpreet Kaur 👋
 
+[![Open to work — Germany](https://img.shields.io/badge/Open%20to%20work-Germany-brightgreen)](https://www.linkedin.com) [![Email](https://img.shields.io/badge/Email-hpmca2009%40gmail.com-blue?logo=gmail&logoColor=white)](mailto:hpmca2009@gmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com)
+
 Engineering Manager — Application Development, Solution Architecture & AI/GenAI · 17+ years
 
 I lead a 42-member engineering organization (25 direct reports plus outsourced partners) delivering 7+ parallel projects at Shyam Spectra. I work at the intersection of architecture and delivery — defining how systems fit together, guiding teams on what to build and how to build it, and owning the lifecycle from requirements through production support.
 
 Most of my recent focus is on AI / GenAI automation: LLM-based document classification, conversational self-service, and intelligent OCR pipelines running in production on Azure and AWS.
 
-Location: Gurgaon, India
+Location: Gurgaon, India — actively open to senior engineering leadership roles in Germany (relocation and sponsorship welcome)
 
 Let's connect: hpmca2009@gmail.com · LinkedIn
 
 ---
+
+Two-line bio
+
+Engineering Manager · 17+ yrs · Leading AI/GenAI, cloud & CRM modernization — open to senior leadership roles in Germany (relocation & sponsorship).
+
+---
+
+Open to opportunities
+
+Actively seeking senior engineering leadership roles in Germany. I am open to relocation and sponsorship; happy to discuss timelines and visa/relocation support.
 
 What I bring
 
@@ -45,6 +57,8 @@ Other highlights: NLP support chatbot on organizational data, computer-vision li
 
 Tech I work with
 
+[![Python](https://img.shields.io/badge/Python-FFD43B?logo=python&logoColor=blue)](https://www.python.org) [![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white)](https://nodejs.org) [![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)](https://reactjs.org) [![Azure](https://img.shields.io/badge/Azure-0078D4?logo=microsoftazure&logoColor=white)](https://azure.microsoft.com) [![AWS](https://img.shields.io/badge/AWS-FF9900?logo=amazonaws&logoColor=white)](https://aws.amazon.com)
+
 - Languages: Python · JavaScript (Node.js) · TypeScript · PHP · SQL
 - Backend & APIs: Node.js · Express · FastAPI · REST · Microservices · Kafka
 - Frontend: React · PWA · HTML5
@@ -58,4 +72,4 @@ If you'd like help with engineering leadership, GenAI in enterprise workflows, C
 
 ---
 
-If you want, I can add: social profile links, badge images, or a short two-line bio for your GitHub profile summary. 
+If you want, I can add: your LinkedIn profile link, a resume/CV link, or an "Open to Work" badge that links directly to your LinkedIn profile. Please tell me which and I'll add them.
