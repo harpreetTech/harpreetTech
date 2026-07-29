@@ -1,6 +1,6 @@
 # Hi, I'm Harpreet Kaur 👋
 
-[![Open to work — Germany](https://img.shields.io/badge/Open%20to%20work-Germany-brightgreen)](https://www.linkedin.com) [![Email](https://img.shields.io/badge/Email-hpmca2009%40gmail.com-blue?logo=gmail&logoColor=white)](mailto:hpmca2009@gmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com)
+[![Open to work — Germany](https://img.shields.io/badge/Open%20to%20work-Germany-brightgreen)](https://www.linkedin.com/in/harpreetkaur-it/) [![Email](https://img.shields.io/badge/Email-hpmca2009%40gmail.com-blue?logo=gmail&logoColor=white)](mailto:hpmca2009@gmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harpreetkaur-it/)
 
 Engineering Manager — Application Development, Solution Architecture & AI/GenAI · 17+ years
 
@@ -10,7 +10,7 @@ Most of my recent focus is on AI / GenAI automation: LLM-based document classifi
 
 Location: Gurgaon, India — actively open to senior engineering leadership roles in Germany (relocation and sponsorship welcome)
 
-Let's connect: hpmca2009@gmail.com · LinkedIn
+Let's connect: hpmca2009@gmail.com · [LinkedIn](https://www.linkedin.com/in/harpreetkaur-it/)
 
 ---
 
@@ -72,4 +72,4 @@ If you'd like help with engineering leadership, GenAI in enterprise workflows, C
 
 ---
 
-If you want, I can add: your LinkedIn profile link, a resume/CV link, or an "Open to Work" badge that links directly to your LinkedIn profile. Please tell me which and I'll add them.
+If you want, I can add: your resume/CV link, or additional badges (Stack Overflow, Twitter), or shorten the header for a scannable profile.
