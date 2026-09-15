@@ -16,7 +16,7 @@ Let's connect: hpmca2009@gmail.com · [LinkedIn](https://www.linkedin.com/in/har
 
 Two-line bio
 
-Engineering Manager · 17+ yrs · Leading AI/GenAI, cloud & CRM modernization — open to senior leadership roles in Germany (relocation & sponsorship).
+Engineering Manager · 17+ yrs · Leading AI/GenAI, cloud & CRM modernization — open to senior leadership roles in Germany (relocation & sponsorship). 
 
 ---
 
