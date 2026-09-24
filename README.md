@@ -1,6 +1,6 @@
 # Hi, I'm Harpreet Kaur 👋
 
-[![Open to work — Germany](https://img.shields.io/badge/Open%20to%20work-Germany-brightgreen)](https://www.linkedin.com/in/harpreetkaur-it/) [![Email](https://img.shields.io/badge/Email-hpmca2009%40gmail.com-blue?logo=gmail&logoColor=white)](mailto:hpmca2009@gmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harpreetkaur-it/) 
+[![Open to work — Germany](https://img.shields.io/badge/Open%20to%20work-Germany-brightgreen)](https://www.linkedin.com/in/harpreetkaur-it/) [![Email](https://img.shields.io/badge/Email-hpmca2009%40gmail.com-blue?logo=gmail&logoColor=white)](mailto:hpmca2009@gmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harpreetkaur-it/)
 
 Engineering Manager — Application Development, Solution Architecture & AI/GenAI · 17+ years
 
