@@ -37,7 +37,7 @@ Domains
 - Finance & Accounting
 - BPM & Customer Service Management
 
-Certifications
+Certifications   
 
 - PMP® · Certified ScrumMaster® · Certified Scrum Product Owner® · Great People Manager (GMI®)
 
